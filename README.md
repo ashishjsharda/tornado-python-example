@@ -16,11 +16,14 @@ pip install tornado
 ## Running the Application
 To run the application, follow these steps:
 
-1. **Start the Server**: In the project directory, execute:
-   ```bash
-   python server.py
+**Start the Server**: In the project directory, execute:
+python server.py
 
+```
 
 This command starts the web server on http://localhost:8888.
 
-Access the Application: Open your web browser and visit http://localhost:8888. You should see "Hello, World!" displayed on the page.
+
+
+## Access the Application: 
+Open your web browser and visit http://localhost:8888. You should see "Hello, World!" displayed on the page.
